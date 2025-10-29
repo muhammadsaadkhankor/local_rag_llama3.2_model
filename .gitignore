@@ -1,0 +1,6 @@
+# Ignore PDFs folder
+/backend/pdfs
+
+# Ignore frontend dependencies and lock file
+/frontend/node_modules/
+/frontend/package-lock.json
