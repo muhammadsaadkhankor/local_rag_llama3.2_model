@@ -1,6 +1,7 @@
 # Ignore PDFs folder
 /backend/pdfs
-
+backend/__pycache__/
+backend/embeddings_cache.pkl
 # Ignore frontend dependencies and lock file
 /frontend/node_modules/
 /frontend/package-lock.json
