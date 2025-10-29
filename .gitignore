@@ -6,4 +6,4 @@ backend/embeddings_cache.pkl
 /frontend/node_modules/
 /frontend/package-lock.json
 
-
+backend/api_keys.json
